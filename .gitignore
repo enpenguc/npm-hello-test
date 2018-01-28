@@ -1,0 +1,16 @@
+*.iml
+.idea/
+*.bak
+.DS_Store
+Thumbs.db
+.project
+.*proj
+*.log
+*.log.*
+node_modules/
+npm-debug.log
+dist
+/.vscode/
+/coverage
+yarn.lock
+package-lock.json
